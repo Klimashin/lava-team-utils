@@ -1,0 +1,23 @@
+{
+    "name": "com.lava-team.utils",
+    "version": "0.1",
+    "displayName": "LAVAteam Utils",
+    "description": "Utility scripts for prototyping speed up",
+    "unity": "2019.4",
+    "keywords": [
+      "platformer",
+      "controller"
+    ],
+    "author": {
+        "name": "Vasya Klimashin",
+        "email": "klimashin.v@gmail.com",
+        "url": "https://github.com/Klimashin"
+    },
+    "samples": [
+      {
+        "displayName": "Playground Samples",
+        "description": "",
+        "path": "Samples/PlaygroundSamples"
+      }
+    ]
+  }
